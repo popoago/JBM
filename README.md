@@ -1,6 +1,8 @@
 # JBM Assignment
 
-### This repo contains the web deployment for the assignment using [fast.ai](https://github.com/fastai/fastai) models on Render.
+### This repo contains the web deployment for the assignment using fastai.
+
+The folder **app** contains the files necessary to deploy the web app on render.
 
 The *web application* has been deployed at https://defect-identifier.onrender.com
 
